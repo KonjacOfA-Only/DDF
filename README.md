@@ -5,3 +5,4 @@ We are based on C and C++ , it has many powerful features . Such as it can be ru
 DDF语言基于C和C++，他有很多特性。比如说你可以运行很多你在C++无法编译的代码，而且我们还有一个有趣的头文件库song8488.h，在他里面有很多好东西(哲学函数)   
 Do you like what you see?  join us!   
 Go to release page:https://github.com/KonjacOfA-Only/DDF/releases
+关于这个项目，经过我们的不懈努力，解决了v2中的不少问题，但是并不稳定，所以现将开发中心移至DDF-C++，感谢大家对Project-DDF的支持
